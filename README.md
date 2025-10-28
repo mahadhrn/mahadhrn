@@ -1,4 +1,8 @@
 <div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQGpb02_d-_VnQ/profile-displaybackgroundimage-shrink_350_1400/B4DZoFxJYzJMAY-/0/1761033361754?e=1762992000&v=beta&t=0_w_UeiCMcL-joqJrbHjzFji3xaY_I6Ip0y1IRbIavs"  />
+</div>
+
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
