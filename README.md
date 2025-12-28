@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Mahad Haroon from Lahore, Pakistan<br><br>- 🔭 I’m working as UX/UI and Web Enthusiast<br>- 📚 I'm currently learning Full Stack Web<br>- ⚡ In my free time I do Cinemtography, and Music Production</p>
+<p align="left">I'm Mahad Haroon from Lahore, Pakistan<br><br>- 🔭 I’m working as UX/UI and Web Enthusiast<br>- 📚 I'm ***currently learning Full Stack Web***<br>- ⚡ In my free time I do Cinemtography, and Music Production</p>
 
 ###
 
