@@ -1,76 +1,75 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQEqf_T4PPU-Dg/profile-displaybackgroundimage-shrink_350_1400/B4DZsSC0HfJIAY-/0/1765534287401?e=1768435200&v=beta&t=g9zU3NUjiezmR4z33-dhiPrIER97aBifO3sUAfHAEWA"/>
 
-</div>
+<h1 align="center">Hi, I'm Mahad Haroon</h1>
 
-<div align="center">
-  <h2>Portfolio ↙</h2>
-  <a href="https://www.linkedin.com/in/mahadharoon/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <strong>Full-Stack Product Engineer ·  SaaS Builder</strong>
+</p>
+
+<p align="center">
+  <a href="https://mahadharoon.dev">
+    <img src="https://img.shields.io/badge/Portfolio-mahadharoon.dev-black?style=flat-square" />
   </a>
-  <a href="https://www.behance.net/mahadhrn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  <a href="mailto:mahad.intern@devsinc.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square" />
   </a>
-</div>
+</p>
+
+---
+
+## About Me
+
+Im a **Full-Stack Product Engineer** focused on building modern web applications with **scalable architecture and clean engineering patterns**.
+
+I design frontend systems, integrate backend services, and structure applications so they remain **maintainable as they grow**.  
+My approach blends **TypeScript, modern frameworks, and strong product thinking** to deliver reliable, future-ready solutions from concept to deployment.
 
 
+---
 
-<h1 align="center"> UX/UI | Full Stack Developer 👋</h1>
+## Core Expertise
 
-###
+| Area | Description |
+|-----|------------|
+| Full-Stack Engineering | Production-ready frontend and backend systems |
+| Frontend Architecture | React, Next.js, scalable component systems |
+| Backend Development | Django, PostgreSQL, REST, FastAPI |
+| AI Feature Engineering | Natural language commands, search, automation |
+| System Design | Monorepos, domain boundaries, event-driven thinking |
+| UI Engineering | Performance-focused, clean, reusable UI systems |
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Mahad Haroon from Lahore, Pakistan<br><br>- 🔭 I’m working as UX/UI and Web Enthusiast<br>- 📚 I'm currently learning Full Stack Web<br>- ⚡ In my free time I do Cinemtography, and Music Production</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webflow/4353FF" height="40" alt="webflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
 
+## Tech Stack
+
+| Category | Stack |
+|--------|------|
+| Languages | TypeScript, JavaScript, SQL |
+| Frontend | React, Next.js, Tailwind CSS |
+| Backend | Django, FastAPI |
+| Databases | PostgreSQL, Redis, Supabase |
+| Testing | FactoryBoy, Faker, Unittest |
+| APIs | REST, GraphQL, OpenAI |
+| DevOps | Docker, GitHub Actions |
+| Tools | Git, Postman, Figma |
+
+---
+
+## Writing & Knowledge Sharing
+
+I regularly study **system design and backend patterns** and share practical learnings with the community.
+
+
+## Let's Connect
+
+If you're building a product that values **performance, scalability, and clean engineering**, I’d be glad to collaborate.
+
+| Linkedin|
+|-------|--|
+<a href="https://mahadharoon.dev">
+
+---
+
+<p align="center">
+  <strong>Focused on building systems that last.</strong>
+</p>
